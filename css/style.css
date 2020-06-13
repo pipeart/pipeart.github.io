@@ -1,0 +1,67 @@
+.navbar{
+  width:100%;
+}
+
+.carousel-item img{
+  max-width: 100%;
+  height: auto;
+}
+
+.productbox img{
+  width: auto;
+  height: 200px;
+}
+
+.producthome img{
+  height: 200px;
+  width: 100%;
+}
+
+.quicklinks a:link{
+  color: white;
+}
+
+.quicklinks a:visited{
+  color: white;
+}
+
+.producthome a:link{
+  color: black;
+}
+
+.producthome a:visited{
+  color: black;
+}
+
+
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.padding{
+  padding-bottom: 1rem;
+}
+
+.fa-rupee-sign{
+  color: #D5AE41;
+}
+
+.fa-award{
+  color: #BD3D3A;
+}
+
+.fa-rupee-sign, .fa-award{
+  font-size: 4em;
+  margin: 1rem;
+}
+
+.fa-stack{
+  font-size: 2em;
+  margin: 1rem;
+}
+
+footer{
+  padding: 2rem;
+  background-color: #000000;
+  color: #D5D5D5;
+}
